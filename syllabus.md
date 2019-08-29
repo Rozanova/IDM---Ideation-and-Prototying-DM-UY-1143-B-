@@ -2,11 +2,11 @@
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Katherine Bennett • Katherine.Bennett@nyu.edu • Fall 2018 
-    Tuesdays • 5:30PM-9:10PM • 2MTC MAGNET 817 
+    Katya Rozanova • Katya.Rozanova@nyu.edu • Fall 2019 
+    Monday and Wednesdays • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 
 
-#### Course Management Site: https://idm-ip-b-fall2018.slack.com
+#### Course Management Site: https://idm-ip-b-fall2019.slack.com
 
 ---
 _&quot;I have no special talents. I am only passionately curious.&quot;_
