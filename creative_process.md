@@ -13,14 +13,15 @@ Possible Choices \(but not limited to\):
 * David Hammons
 * [Wendy Red Star](https://aperture.org/blog/wendy-red-star/)
 * Jenny Holzer
+* Charles Darwin
+* Agnes Martin
+* Dev Hynes
 * Bill Gates
 * [Nick Cave](https://art21.org/artist/nick-cave/)
 * Yayoi Kusama
 * Hilda Von Klint
 * David Lynch
-* Charles Darwin
 * Joseph Beuys
-* Dev Hynes
 * Elon Musk
 * Ernesto Neto
 * Bob Marley
