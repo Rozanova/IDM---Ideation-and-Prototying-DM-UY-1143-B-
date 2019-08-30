@@ -8,7 +8,7 @@
 ## It is your responsibility to turn in the following items in the specified manner according to the specified date. No reminders will be sent.
 
 <ul>
-<li>Future Dystopia Utopia Documentation (which is different for every student). The following is <strong> due December 14th: </strong> <br> 
+<li>Future Dystopia Utopia Documentation (which is different for every student). The following is <strong> due December 13th: </strong> <br> 
 	<ul> 
 		<li> On your Process Site, create a navigation tab which will load ALL of the process that you have undertaken for the <a href="future.md">Future project</a></li>
 		<li> Within that should be 3 iterations of your <a href="evolution_timeline.md"> Evolution Timeline </a></li>
