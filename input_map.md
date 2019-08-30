@@ -1,5 +1,5 @@
 ### DM-UY 1143 B Ideation and Prototyping
-##### Fall 2018 • Katherine Bennett • Tuesday • 5:30PM-9:10PM • 2MTC MAGNET 817
+##### Fall 2019 • Katya Rozanova • Monday and Wednesday • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 
 # Inputs Map
 
