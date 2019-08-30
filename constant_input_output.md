@@ -34,7 +34,7 @@ What’s new and different in your life in the following categories? Why does it
 *   Post or embed within your process website your chosen schedule with specific dates and share the link with your instructor.
 *   Reference:
     *   [Michael Bierut Five Years of 100 Days](http://designobserver.com/feature/five-years-of-100-days/24678)
-    *   [100 Days of Digisculpting by Chengtao Yi] (https://www.instagram.com/100days_digisculpting/)
+    *   [100 Days of Digisculpting by Chengtao Yi](https://www.instagram.com/100days_digisculpting/)
     *   [100 Day of Simulations by Sam Hains](https://www.instagram.com/100.simulations/?hl=en)
     *   [100 Days of AV Cart by Camilla Padgitt-Coles](https://www.instagram.com/ivymeadows/?hl=en)
     *   [Stefan G. Bucher’s Daily Monster](http://www.dailymonster.com/344_loves_you/monsterarchive.html)
