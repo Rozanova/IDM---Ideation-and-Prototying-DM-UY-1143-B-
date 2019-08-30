@@ -45,7 +45,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 2<p>Sept 11 </p>
+    <td valign="top">wk 2<p>Sept 9 </p>
     </td>
     <td valign="top">
     <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
