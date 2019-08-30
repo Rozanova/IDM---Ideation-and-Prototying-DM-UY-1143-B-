@@ -3,6 +3,7 @@
 
 # Recommended Resources
 
+
 **Recommended Audio Podcasts**
 
 *   [Revision Path](https://itunes.apple.com/us/podcast/revision-path/id834173190?mt=2) Maurice Cherry interviews designers, developers, and other creators of color weekly.
@@ -78,6 +79,7 @@ _Prototyping_
 
 **Recommended Media**
 
+*    [How to be a Systems Thinker](https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker)
 *   [Afrigadget](https://twitter.com/afrigadget?lang=en)
 *   Brown, Tim. [Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf) Harvard Business Review. June 2008. 
 *   [Citizen Architect, Sam Mockbee &amp; Rural Studio](http://video.pbs.org/program/1548466406)
