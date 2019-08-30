@@ -9,13 +9,23 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 Possible Choices \(but not limited to\):
 
 * Frida Kahlo
-* Sarah Blakely \(Spanx\)
+* David Hammons
+* Wendy Red Star (https://aperture.org/blog/wendy-red-star/)
 * Jenny Holzer
+* Bill Gates
+* Nick Cave (https://art21.org/artist/nick-cave/)
 * Yayoi Kusama
 * Hilda Von Klint
 * David Lynch
+* Charles Darwin
+* Joseph Beuys
+* Dev Hynes
+* Elon Musk
+* Ernesto Neto
+* Bob Marley
 * Alfred Hitchcock
 * Jonathan Ive
+* Bjork
 * Hideo Kojima
 * Richard Branson
 * John Cage
@@ -24,30 +34,35 @@ Possible Choices \(but not limited to\):
 * Thomas Edison
 * Albert Einstein
 * Leonardo Da Vinci
-* Charles Darwin
 * Charles & Ray Eames
 * Federico Fellini
 * Henry Ford \(Ford Motor Company\)
 * Art Fry \(Post-It Note\)
 * Juanjo Guarnido 
+* Agnes Varda
+* Martin Scorsese
 * Lexie Smith: A Baker and Artist Using Dough as Her Medium
 * Maya Angelou 
 * Steve Jobs
 * Sal Khan \(Khan Academy\)
 * Stephen King 
+* Andrei Tarkovsky
+* Sarah Blakely \(Spanx\)
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
 * Hayao Miyazaki 
 * Christopher Nolan 
 * Gordon Parks
+* Stanley Kubrick
 * Philippe Petit
 * Benjamin Franklin
 * Pablo Picasso
 * J.K. Rawlings 
 * Wassily Kandinsky
 * Robert Rodriguez
-* Mike Rottenberg 
+* Mika Rottenberg 
 * Paula Scher
 * Twyla Tharp
+* Michel Gondry
 
 The key to your research is a proliferation of references on your subject, particularly interviews, sketchbooks, notebooks, and/or journals or other reflective writing which can give your team insights into the research and design processes of your subject.
 
