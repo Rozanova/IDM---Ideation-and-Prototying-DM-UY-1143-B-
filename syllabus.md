@@ -96,7 +96,7 @@ There will be discrete team and individual exercises and projects that require y
 *   Planning and mapping
 *   Grouping, clustering, comparing, contrasting
 *   Organizing and designing
-*   Reorganizing and redesigning
+*   Reorganizing and redesigning 
 *   Shaping and forming
 *   Discerning and revealing
 *   Connecting and disconnecting
