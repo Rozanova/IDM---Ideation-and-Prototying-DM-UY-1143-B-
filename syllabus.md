@@ -28,7 +28,7 @@ In this class, the creative process will be investigated in order to generate id
 
 Prerequisite: None
 
-#### [Maker Center Calendar](http://vgb1.hosting.nyu.edu/training/)
+#### [Maker Space Calendar](http://makerspace.engineering.nyu.edu/training/). First-time users must attend a "safety orientation." 
 
 ### PROGRAM GOALS
 
@@ -62,7 +62,7 @@ By the end of this course students should be able to:
 
 The course will be comprised of lectures, critiques, discussions, readings, screenings, exercises, projects, and a collaborative research paper.
 
-Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. The feedback is about how the work is coming across as well as ways to expand it. It is not about you personally, but your work. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only utilize the ones that work for you and your project.
+Critiques are the best way to articulate your ideas to others and get immediate feedback. The class analyzes and suggests ways to increase the impact of your project. The feedback is about how the work is coming across as well as ways to expand it. It is not about you personally, but your work. Take notes when your work is being critiqued and do not edit the responses, whether you agree with them or not. Review your critique notes and reflect upon what was said. Ask yourself how you could combine, transform, or expand what you are doing to make your project better. However, resist the temptation to incorporate all suggestions and comments. Only use the ones that work for you and your project.
 
 Rules of the Critique:
 
@@ -83,7 +83,7 @@ There will be discrete team and individual exercises and projects that require y
 *   Asking and listening
 *   Visual researching
 *   Materials researching
-*   User / audience researching and ethnographic researching
+*   User / audience researching and ethnographic researching 
 *   Systems researching
 *   Activity researching
 *   Primary researching
@@ -119,7 +119,7 @@ There will be discrete team and individual exercises and projects that require y
 
 * Schedule your time (keep a calendar of some sort) 
 * Come to class on time and participate (be present and engaged)
-* Study outside of class (ideally with classmate(s)
+* Study outside of class (ideally with classmate(s))
 * Devote at a minimum 6 - 8 hours per week outside of class, fulfilling homework assignments, reading, and studying concepts covered in class.
 * Consult slack at least once a week for up to date info
 * Complete all assignments by due dates
@@ -127,11 +127,12 @@ There will be discrete team and individual exercises and projects that require y
 * Give your classmates constructive feedback. Don't be passive in critiques or take it personally. Push everyone's ideas further.
 * Action – do your absolute best
 * Strive for continuous improvement
-* Direct message me on slack re: contact about logistics (when, where, how many?) only
-* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email turns into a paragraph or two that means you should be talking to me in person, not emailing me.)
+* Direct message me on slack only about logistics (when, where, how many?)
+* Talk to me in person about issues and problems. Do not direct message me long conversations on slack. (if your email/slack message turns into a paragraph or two that means you should be talking to me in person, not emailing or slacking me.)
 * Have desire amounting to enthusiasm (to learn, to explore)
 * Have patience, persistence, and discipline 
-* Be creative
+* Experiment! Don't be afraid to try something you haven't done before.
+* Have patience, persistence, and discipline.
 * Pay attention to detail & craft
 * Have self-confidence and pride in your work
 * Take risks & be fearless in your projects
@@ -143,8 +144,8 @@ There will be discrete team and individual exercises and projects that require y
 ##### Attendance
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
-* Unexcused absences will affect your grade. One absence is allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence.
-* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accure an absence. See above
+* Unexcused absences will affect your grade. Two absenses are allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence. 
+* Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accure an absence. See above.
 * Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
 * Work is still due on due dates, regardless of whether you are in class or not.
