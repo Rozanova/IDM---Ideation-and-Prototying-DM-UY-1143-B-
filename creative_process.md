@@ -8,6 +8,7 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 
 Possible Choices \(but not limited to\):
 
+* Marta Minujín
 * Frida Kahlo
 * David Hammons
 * [Wendy Red Star](https://aperture.org/blog/wendy-red-star/)
