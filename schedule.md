@@ -16,7 +16,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
 </tr>
 <tr>
-    <td valign="top">wk 1<p>Sept 4 </p></td>
+    <td valign="top">wk 1</td>
+     <td valign="top">Sept 4</td>
     <td valign="top">
     <li>Course and Student Introductions</li>
     <li>Overview of the Course & Syllabus </li>   
