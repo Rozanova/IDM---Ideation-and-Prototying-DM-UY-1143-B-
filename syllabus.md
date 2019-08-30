@@ -9,7 +9,7 @@
 #### Course Management Site: https://idm-ip-b-fall2019.slack.com
 
 ---
-_&quot; You can't use up creativity. The more you use, the more you have.&quot;_
+_&quot;You can't use up creativity. The more you use, the more you have.&quot;_
 
 _~Maya Angelou_
 
