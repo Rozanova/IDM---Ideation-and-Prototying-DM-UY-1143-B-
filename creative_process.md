@@ -1,5 +1,5 @@
 ### DM-UY 1143 B Ideation and Prototyping
-##### Fall 2018 • Katherine Bennett • Tuesday 5:30 - 9:10pm • 2MTC MAGNET 817
+##### Fall 2019 • Katya Rozanova • Monday and Wednesday • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 
 # Creative Process Research Paper & Video Documentary
 
@@ -8,10 +8,19 @@ Working in groups of two, you will research, analyze, evaluate, and communicate 
 
 Possible Choices \(but not limited to\):
 
+* Frida Kahlo
 * Sarah Blakely \(Spanx\)
+* Jenny Holzer
+* Yayoi Kusama
+* Hilda Von Klint
+* David Lynch
+* Alfred Hitchcock
+* Jonathan Ive
+* Hideo Kojima
 * Richard Branson
 * John Cage
 * Kyle Cooper
+* Toni Morrison
 * Thomas Edison
 * Albert Einstein
 * Leonardo Da Vinci
@@ -19,25 +28,22 @@ Possible Choices \(but not limited to\):
 * Charles & Ray Eames
 * Federico Fellini
 * Henry Ford \(Ford Motor Company\)
-* Benjamin Franklin
 * Art Fry \(Post-It Note\)
-* Bill Gates
 * Juanjo Guarnido 
-* Alfred Hitchcock
-* Jonathan Ive
-* Frida Kahlo
-* Hideo Kojima
+* Lexie Smith: A Baker and Artist Using Dough as Her Medium
+* Maya Angelou 
 * Steve Jobs
 * Sal Khan \(Khan Academy\)
 * Stephen King 
 * [Paul Klee](http://www.openculture.com/2016/03/3900-pages-of-paul-klees-personal-notebooks-are-now-online.html)
-* David Lynch
 * Hayao Miyazaki 
 * Christopher Nolan 
 * Gordon Parks
 * Philippe Petit
+* Benjamin Franklin
 * Pablo Picasso
 * J.K. Rawlings 
+* Wassily Kandinsky
 * Robert Rodriguez
 * Mike Rottenberg 
 * Paula Scher
