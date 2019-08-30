@@ -211,6 +211,11 @@ Students who believe they are eligible for course accommodations under the ADA o
 Faculty can provide course accommodations/modifications only after receipt of an approved accommodations letter from the Moses Center for Students with Disabilities. Accommodation letters can be provided to qualified students at any time during the semester, but grades earned before the faculty receives the letter cannot be changed.
 
 
+### DIVERSITY AND INCLUSION
+
+The TCS Department is dedicated to the university's goals for diversity, equity and inclusion. At the department level, we would like everyone to think about the perspectives present in their current author/book/article list in their syllabi: Are your authors diverse? Do they provide the students with diverse opinions of the topic they are studying? Are their additional authors (people of color, women) who can be added to your list? Please do think about these questions while preparing your final versions for submission.
+
+
 ### REQUIRED SUPPLIES
 *   A Notebook or Sketchbook (Analog or Digital (i.e. Evernote, Paper by FiftyThree, etc.))
 *   Digital Camera (You can also use a smart phone.)
@@ -252,6 +257,7 @@ Generally, please post all homework assignments to your Process Site by Sunday e
 * [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
 * [Future Dystopia / Utopia Project](future.md)
 
+
 #### Assignments
 * [Constant Input Choices](constant_input_choices.md)
 * [Personal Inventory](personal_inventory.md)
@@ -261,6 +267,7 @@ Generally, please post all homework assignments to your Process Site by Sunday e
 * [Object Evolution Timeline](evolution_timeline.md)
 * [Notebook or Sketchbook](notebook_or_sketchbook.md)
 * [Self Assessments](self_assessments.md) 
+
 
 ### [SCHEDULE OVERVIEW GRID](schedule.md)
 See Appendix
