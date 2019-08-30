@@ -51,6 +51,6 @@ I suggest brainstorming one or more of the following themes to get you started, 
 
 Some readig for inspiration:
 Bleecker, Julian. 
-“Design Fiction. A short essay on design, science, fact and fiction.”(http://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf) 
+[“Design Fiction. A short essay on design, science, fact and fiction.”](http://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf) 
 2009.
 Read sections 1-2.
