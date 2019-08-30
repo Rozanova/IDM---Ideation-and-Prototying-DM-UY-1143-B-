@@ -58,7 +58,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
     <li> 5 phases</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
-  
     </ul>
     </td> 
     <td valign="top">
