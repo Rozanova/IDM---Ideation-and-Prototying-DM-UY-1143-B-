@@ -1,5 +1,5 @@
 ### DM-UY 1143 B Ideation and Prototyping
-##### Fall 2018 • Katherine Bennett • Tuesday • 5:30PM-9:10PM • 2MTC MAGNET 817
+##### Fall 2019 • Katya Rozanova • Monday and Wednesday • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 
 
 # Final Project
@@ -49,3 +49,6 @@ I suggest brainstorming one or more of the following themes to get you started, 
 *   Time
 
 
+Some readig for inspiration:
+Bleecker, Julian. “Design Fiction. A short essay on design, science, fact and fiction.” (http://drbfw5wfjlxon.cloudfront.net/writing/DesignFiction_WebEdition.pdf) 2009.
+Read sections 1-2.
