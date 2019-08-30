@@ -10,7 +10,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 
 <table width="100%">
 <tr>
-    <th width="8%">wk</th>
+    <th width="4%">wk</th>
+     <th width="4%">day</th>
     <th width="46%">Class</th>
     <th width="46%">Do For Homework <br> <br>(Assigned on Date Listed and due the following week before class)</th>
 </tr>
@@ -45,7 +46,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 2<p>Sept 9 </p>
+    <td valign="top">wk 2<p>Sept 11 </p>
     </td>
     <td valign="top">
     <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
@@ -56,28 +57,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
     <li> 5 phases</li>
     <li> <a href = "recommended_resources.md"> Recommended Resources </a> </li>
- 
-    </ul>
-    </td> 
-    <td valign="top">
-    <li> <a href="classmate_discovery.md">Classmate Discovery</a></li>
-     <li>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos. Post to your process website by Sunday evening.</li>
-     <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>   
-     <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website by Sunday evening.</li> 
-     <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website by Sunday evening.</li>
-    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
-    </td>
-</tr>
-
-
-<tr>
-    <td valign="top">wk 2<p>Sept 11 </p>
-    </td>
-    <td valign="top">
-    <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
-    <ul>
-    Discuss: <br>
-  
     <li><a href="input_map.md">Input Maps</a></li>
     <li><a href = "personal_inventory.md">Personal Inventories</li> </a> 
     <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
@@ -93,8 +72,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
-
-
 <tr>
     <td valign="top">wk 3<p>Sept 18</p></td>
     <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
