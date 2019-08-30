@@ -1,7 +1,7 @@
 ### DM-UY 1143 B Ideation and Prototyping
 ##### Fall 2019 • Katya Rozanova • Monday and Wednesday • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 # Extra Credit
-### Due to your Process site by 12/7/19
+### Due to your Process site by 12/6/19
 
 
 ## Attend a [Maker Center training event](http://makerspace.engineering.nyu.edu/training/)
