@@ -10,10 +10,10 @@ Possible Choices \(but not limited to\):
 
 * Frida Kahlo
 * David Hammons
-* Wendy Red Star (https://aperture.org/blog/wendy-red-star/)
+* [Wendy Red Star](https://aperture.org/blog/wendy-red-star/)
 * Jenny Holzer
 * Bill Gates
-* Nick Cave (https://art21.org/artist/nick-cave/)
+* [Nick Cave](https://art21.org/artist/nick-cave/)
 * Yayoi Kusama
 * Hilda Von Klint
 * David Lynch
