@@ -3,6 +3,23 @@
 
 # Recommended Resources
 
+**Recommended Media**
+
+*    [How to be a Systems Thinker](https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker)
+*   [Afrigadget](https://twitter.com/afrigadget?lang=en)
+*   Brown, Tim. [Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf) Harvard Business Review. June 2008. 
+*   [Citizen Architect, Sam Mockbee &amp; Rural Studio](http://video.pbs.org/program/1548466406)
+*   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
+*   Dan Roam: [&quot;Blah Blah Blah: What To Do When Words Don&#039;t Work&quot;](https://www.youtube.com/watch?v=PsrFuXefZ1Q)  | Talks at Google
+*   ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
+*   [Designing Interactions Interviews](http://www.designinginteractions.com/interviews)
+*   _Exit Through The Gift Shop_ by Banksy
+*   Found Magazine – [http://foundmagazine.com](http://foundmagazine.com)
+*   [Hillman Curtis artist films](http://hillmancurtis.com/artist-series)
+*   [Lost Image Desk](http://lostimagedesk.com)
+*   Make Magazine
+*   [An Incomplete Manifesto for Growth by Bruce Mau](http://www.manifestoproject.it/bruce-mau/)
+
 
 **Recommended Audio Podcasts**
 
@@ -77,22 +94,6 @@ _Prototyping_
 *   [The OWL at Purdue: MLA Formatting and Style Guide](https://owl.english.purdue.edu/owl/resource/747/01)
 *   [The OWL at Purdue: Annotated Bibliographies](https://owl.english.purdue.edu/owl/resource/614/01)
 
-**Recommended Media**
-
-*    [How to be a Systems Thinker](https://www.edge.org/conversation/mary_catherine_bateson-how-to-be-a-systems-thinker)
-*   [Afrigadget](https://twitter.com/afrigadget?lang=en)
-*   Brown, Tim. [Design Thinking](http://www.ideo.com/images/uploads/news/pdfs/IDEO_HBR_Design_Thinking.pdf) Harvard Business Review. June 2008. 
-*   [Citizen Architect, Sam Mockbee &amp; Rural Studio](http://video.pbs.org/program/1548466406)
-*   Cognitive Media [Process](https://www.wearecognitive.com/our-process) and [Work](https://www.wearecognitive.com/our-work) (visual scribing / note-taking) 
-*   Dan Roam: [&quot;Blah Blah Blah: What To Do When Words Don&#039;t Work&quot;](https://www.youtube.com/watch?v=PsrFuXefZ1Q)  | Talks at Google
-*   ["The Deep Dive,"](http://www.youtube.com/watch?v=JkHOxyafGpE) ABC's Nightline
-*   [Designing Interactions Interviews](http://www.designinginteractions.com/interviews)
-*   _Exit Through The Gift Shop_ by Banksy
-*   Found Magazine – [http://foundmagazine.com](http://foundmagazine.com)
-*   [Hillman Curtis artist films](http://hillmancurtis.com/artist-series)
-*   [Lost Image Desk](http://lostimagedesk.com)
-*   Make Magazine
-*   [An Incomplete Manifesto for Growth by Bruce Mau](http://www.manifestoproject.it/bruce-mau/)
 
 **Recommended Software**
 
