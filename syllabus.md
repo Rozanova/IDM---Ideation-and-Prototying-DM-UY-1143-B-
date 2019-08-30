@@ -165,7 +165,7 @@ There will be discrete team and individual exercises and projects that require y
 *   4% [Object Evolution Timeline](narrative_timeline.md)
 *   5% [Self Assessments](self_assessments.md) (2.5% each)
 *   10% [Notebook or Sketchbook](notebook_or_sketchbook.md)
-*   12% [Constant Input Choices](constant_input_choices.md)
+*   12% [Constant Input Choices](constant_input_output.md)
 *   14% [Process Website](process_website.md)
 *   20% [Future Dystopia / Utopia Project](future.md)
 *   31% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
