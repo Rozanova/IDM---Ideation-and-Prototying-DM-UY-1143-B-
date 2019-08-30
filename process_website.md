@@ -30,7 +30,7 @@ Your site must have the following sections that are accessible via a menu or tag
 
 ### Wordpress Group Registration
 
-If you don’t already have server space, please schedule an appointment with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu, MAGNET 883.
+If you don’t already have server space, please schedule an appointment with Elton Kwok, IDM's Technology Director, eltonkwok@nyu.edu.
 
 Please remember to bring your laptop with you when you visit a session.
 
