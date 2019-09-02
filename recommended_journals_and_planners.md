@@ -6,8 +6,10 @@
 **Planners**
 
 <ul>
-<li><a href="https://inkandvolt.com/product/volt-planner/" target="_blank">Ink and Volt Planner</a></li>
+<li><a href="https://inkandvolt.com/collections/planners/products/planner-notebook" target="_blank">Ink and Volt Planner</a></li>
 <li><a href="https://www.intelligentchange.com/products/the-productivity-planner" target="_blank">The Productivity Planner</a></li>
+  <li>( a href="https://shop.mochithings.com/products/49733?gclid=CjwKCAjw-7LrBRB6EiwAhh1yX1hvtOA7C7QZGoLtUWkyTROYRvdvXb0EPwTyrjD-OEW3xOPZN9zOdxoCV7cQAvD_BwE">MochiThings Planner</a>
+  </li>
 </ul>
 
 **Journals**
