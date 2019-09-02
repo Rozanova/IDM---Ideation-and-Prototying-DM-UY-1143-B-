@@ -18,7 +18,7 @@
  <p> You can use any notebook as a journal - for example, MUJI has a lot of notebooks to choose from.
   </p>
   <p>
- Below are two that were recommended by another professor. These are more structured, specifically for daily journaling.
+ Below are two that were recommended by De Angela Duff, Co-Director and an Industry Associate Professor of Integrated Digital Media. These are more structured, specifically for daily journaling.
  <ul>
 <li><a href="https://bestself.co/products/self-journal" target="_blank">Best Self Journal</a></li>
 <li><a href="https://www.intelligentchange.com/products/the-five-minute-journal" target="_blank">Five Minute Journal</a></li>
