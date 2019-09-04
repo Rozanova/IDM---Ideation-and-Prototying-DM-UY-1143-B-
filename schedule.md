@@ -41,7 +41,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Accept Slack Invitation when received</li> 
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel under "sites"  </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
-    <li>Post your <a href="constant_input_choices.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website by Sunday evening.</li>
+    <li>Post your <a href="constant_input_output.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website by Sunday evening.</li>
     <li><a href = "personal_inventory.md">Personal Inventories,  post to your process website by Sunday evening.</li> </a> 
     <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website by Sunday evening.</li>  
     </td>
@@ -83,7 +83,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">  
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website by Sunday evening.</li> 
      <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website by Sunday evening.</li>
-    <li><a href= "constant_input_choices.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
+    <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
 <tr>
