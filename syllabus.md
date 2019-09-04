@@ -2,7 +2,7 @@
 
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
-    Katya Rozanova • Katya.Rozanova@nyu.edu • Fall 2019 
+    Katya Rozanova • Katya.Rozanova@nyu.edu • Fall 2019 • kr2176@nyu.edu
     Monday and Wednesdays • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
 
 
