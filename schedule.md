@@ -22,8 +22,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Course and Student Introductions</li>
     <li>Overview of the Course & Syllabus </li>   
     <li>Discuss</li>
-      <ul>
-      
+      <ul>    
        <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Module 1 </a></li>
       </ul>   
       <li> Discuss: Assignment: Process Website </li>
