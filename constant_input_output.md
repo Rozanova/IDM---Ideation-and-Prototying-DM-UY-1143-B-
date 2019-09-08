@@ -6,7 +6,7 @@
 Choose either for the entire semester. **Do not do both**:
 
 *   Discovery Log (considered as input)
-*   Creative Process Project: Individual (or Collaborative) daily or weekly (considered as output)
+*   Creative Process Project: Individual (or Collaborative) daily, weekly, or bi-weekly (considered as output)
 
 #### Discovery Log (Input, Learning, Absorbing)
 
