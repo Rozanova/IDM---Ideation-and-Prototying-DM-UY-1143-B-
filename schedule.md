@@ -23,9 +23,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li>Overview of the Course & Syllabus </li>   
     <li>Discuss</li>
       <ul>
-      <li>Word Lists</li>
-      <li>Mind Maps</li>
-      <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
+      
        <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Module 1 </a></li>
       </ul>   
       <li> Discuss: Assignment: Process Website </li>
@@ -53,6 +51,9 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
     <ul>
     Discuss: <br>
+    <li>Word Lists</li>
+    <li>Mind Maps</li>
+    <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
