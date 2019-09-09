@@ -54,7 +54,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </ul>
     </td> 
     <td valign="top">
-    <li> <a href="classmate_discovery.md">Classmate Discovery</a>Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos. Post to your process website by Sunday evening.</li>
+    <li> Watch at least three of your classmates' personal inventory videos, and write responses to at least three classmates’ personal inventories on your process website. Compare and contrast. Include links to their videos. Post to your process website by Sunday evening.</li>
      <li> <a href = "http://teaching.polishedsolid.com/ip/mod3/content/index.html#/?_k=uu7v7d"> Read Module 3 including links </a> </li>
         <li>
             Watch the Data & Society video of this talk by Shoshana Zuboff based on her latest book, <a href="https://datasociety.net/events/databite-no-118-shoshana-zuboff/">The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power.</a> and write a few thoughts. Some questions to consider: What role do designers that work for ad agencies play, for example, in this cycle? What are ways that a designer could avoid unwittingly contributing to potentially unethical targeting? We will have a discussion in class next Monday and share ideas.  
@@ -195,7 +195,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 9<p>Nov 6</p></td>
-    <td valign="top">Review Homework</td>    
+    <td valign="top">Review Homework. <a href="http://www.designkit.org/">Discuss Human-centered Design Methods.</a> Ideo, Standord Innovation, Fjord, etc.</td>    
     <td valign="top">
     <ul>
     <li><strong> Phase 2 & 3: Ideation, Research & Brainstorming; Mapping & Sketching: </strong><a href="future.md">Future Dystopia / Utopia Project</a> Post evidence of the following to your Process site, by Sunday evening.</li> 
