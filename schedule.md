@@ -21,15 +21,11 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <li>Course and Student Introductions</li>
     <li>Overview of the Course & Syllabus </li>   
-    <li>Discuss</li>
-      <ul>    
-       <li> <a href= "http://teaching.polishedsolid.com/ip/mod1/content/index.html#/?_k=havep2"> Module 1 </a></li>
-      </ul>   
+    <li>Discuss</li>  
       <li> Discuss: Assignment: Process Website </li>
       <li> Discuss: Assignmnet: Notebook or Sketchbook</li>
        <li>Discuss: Assignment: Constant Input or Constant Output</li>
       <li> Discuss: Assignment: Personal Inventory </li>
-      <li> Discuss: Input Map </li>
     </td>
     <td valign="top">
     <li>Phase 1: Discovery / Inspiration / Process:</li>
@@ -39,8 +35,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel under "sites"  </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Post your <a href="constant_input_output.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website by Sunday evening.</li>
-    <li><a href = "personal_inventory.md">Personal Inventories,  post to your process website by Sunday evening.</li> </a> 
-    <li>Complete <a href="input_map.md">Input Maps</a> and post to your process website by Sunday evening.</li>  
+    <li><a href = "personal_inventory.md">Personal Inventories,  post to your process website by Sunday evening.</li> </a>   
     </td>
 </tr>
 <tr>
@@ -51,8 +46,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     <li>Share </li>
     Discuss: <br>
-    <li>Word Lists</li>
-    <li>Mind Maps</li>
+    <li> Discuss: Input Map </li>
     <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
