@@ -245,6 +245,7 @@ _The following list of required media may be incomplete and is subject to change
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
 * [Design for Democracy in a Troubled World](https://vimeo.com/51090940)
 * [Design, When Everybody Designs](https://www.youtube.com/watch?v=Ap-vE53CdFI)
+* [The Age of Surveillance Capitalism](https://datasociety.net/events/databite-no-118-shoshana-zuboff/)
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
