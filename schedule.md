@@ -47,7 +47,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     Discuss: <br>
     <li> Input Map </li>
     <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
-        <li>
     <li><a href="recommended_journals_and_planners.md">Recommended Journals and Planners</a></li>
     <li><a href="productivity_resources.md">Time Management and Productivity Systems</a> for Performance Anxiety</li>
     <li>Studio Critique Rules. Follow <a href="http://ardenbnb.ca/agreements.htm" target="_blank">The Four Agreements</a> by Don Miguel Ruiz</li>
