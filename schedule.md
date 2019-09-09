@@ -34,7 +34,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li> <a href = "process_website.md"> Process Website: set up. Post the URL on the Slack channel under "sites"  </a> </li>
     <li> <a href = "notebook_or_sketchbook.md"> Get a notebook or sketchbook </a></li>
     <li>Post your <a href="constant_input_output.md">constant input</a> details to your process website (what are you going to do?) including proposed schedule (when? actual dates. make due dates mondays.) Post to your process website by Sunday evening.</li>
-    <li><a href = "personal_inventory.md">Personal Inventories,  post to your process website by Sunday evening.</li> </a>   
+        <li><a href = "personal_inventory.md">Personal Inventories</a>,  post to your process website by Sunday evening.</li> </a>   
     </td>
 </tr>
 <tr>
