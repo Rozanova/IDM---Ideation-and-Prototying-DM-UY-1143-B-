@@ -43,7 +43,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <td valign="top">
     <strong> Last Day to drop is Sept 17 <br> <br> Phase 1: Discovery / Inspiration / Process: </strong>
     <ul>
-    <li>Share "personal_inventory.md">Personal Inventories</li> </li>
+    <li>Share <a href = "personal_inventory.md">Personal Inventories</a> </li>
     Discuss: <br>
     <li> Input Map </li>
     <li>Concept Maps (similar to mind maps but shows a more thorough investigation of relationships and meanings.)</li>
