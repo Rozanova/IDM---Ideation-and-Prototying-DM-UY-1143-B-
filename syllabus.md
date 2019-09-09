@@ -47,6 +47,7 @@ To get students to:
 *   use their imagination to create something entirely new &amp; innovative OR to reinvent an old idea into something new
 *   introduce students to the many research &amp; design methodologies available to them
 *   develop skills of description, research, analysis, visualization, design and critical thinking.
+*   introduce students to topics around design ethics in order to encourage them to think critically about their roles as artists, designers, and technologists within existing sociocultural contexts.
 *   improve writing, documentation, and presentation skills
 *   facilitate collaboration
 
@@ -233,7 +234,7 @@ _The following list of required readings may be incomplete and is subject to cha
 * Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
 * [Show Your Work by Austin Kleon](https://www.amazon.com/Show-Your-Work-Creativity-Discovered-ebook/dp/B00GU2RGGI/ref=sr_1_1?s=digital-text&ie=UTF8&qid=1533236421&sr=1-1&keywords=austin+kleon)
-* [Don't Read This Book: Time Management for Creative People by Donald Roos](https://www.amazon.com/Dont-Read-This-Book-Management-ebook/dp/B075F8B5BF)
+
 
 ### REQUIRED MEDIA
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
@@ -242,6 +243,8 @@ _The following list of required media may be incomplete and is subject to change
 * [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
+* [Design for Democracy in a Troubled World](https://vimeo.com/51090940)
+* [Design, When Everybody Designs](https://www.youtube.com/watch?v=Ap-vE53CdFI)
 
 ### [RECOMMENDED RESOURCES](recommended_resources.md)
 See Appendix
