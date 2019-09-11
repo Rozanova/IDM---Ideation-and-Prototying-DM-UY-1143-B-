@@ -4,10 +4,10 @@
 
     Katya Rozanova • Katya.Rozanova@nyu.edu • Fall 2019 
     Monday and Wednesdays • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.
-    Office hours. Weds 6:30PM - 8:30PM, Thursdays 3:00PM - 5:00PM and on-demand if we can coordinate schedules(request 20 min slots). <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUl6MGVCbmRqLXU2fGRlZmF1bHR8YWNiY2U3Njc4NWU0OGE1ZjU3N2E4ZTE0ZTUyNGYyZDg">Sign up for time slots </a>. Walk-ins welcome.
-
+    
 
 #### Course Management Site: https://idm-ip-b-fall2019.slack.com
+Office hours. Weds 6:30PM - 8:30PM, Thursdays 3:00PM - 5:00PM and on-demand if we can coordinate schedules(request 20 min slots). <a href="https://calendar.google.com/calendar/selfsched?sstoken=UUl6MGVCbmRqLXU2fGRlZmF1bHR8YWNiY2U3Njc4NWU0OGE1ZjU3N2E4ZTE0ZTUyNGYyZDg">Sign up for time slots </a>. Walk-ins welcome.
 
 ---
 _&quot;You can't use up creativity. The more you use, the more you have.&quot;_
