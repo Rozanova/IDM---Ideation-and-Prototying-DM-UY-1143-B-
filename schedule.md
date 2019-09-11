@@ -68,14 +68,12 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <ul>
     Discuss: <br>
         <ul>
-    <li><a href="input_map.md">Input Maps</a></li>
-    <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a></li>
-    <li>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
+    <li>Pair students for <a href="classmate_discovery.md">Classmate Discovery</a>Interview, Survey, and/or Questionnaire two of your classmates to discover background, training, discipline, personal circumstances that led them to where they are today, and where they are going.</li>
     </ul>
     </td> 
     <td valign="top">  
      <li>Write your response to the Everything is a Remix as well as The Force Awakens, The Matrix and The IPhone by Kirby Ferguson (See Module 3). Do not write summaries. In other words, do not regurgitate. Discuss any epiphanies or insights that occurred while watching, how it reflects your own process (or does not and why) or how it will inform or change your own process (or will not and why). Post to your process website by Sunday evening.</li> 
-     <li> Read letters to the next cohort (found on slack resources). Write a brief reflection on your Process Site. Post to your process website by Sunday evening.</li>
+    <write the reponse to the Data & Society talk from last homework if you haven't done so already</li>
     <li><a href= "constant_input_output.md"> Constant Input/Constant Ouput (if scheduled)</li> </a>
     </td>
 </tr>
