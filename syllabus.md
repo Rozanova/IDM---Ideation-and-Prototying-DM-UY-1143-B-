@@ -3,7 +3,8 @@
 #### Integrated Digital Media • Technology, Culture & Society Department 
 
     Katya Rozanova • Katya.Rozanova@nyu.edu • Fall 2019 
-    Monday and Wednesdays • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.  
+    Monday and Wednesdays • 4:30PM-6:20PM • 370 Jay Street. 3rd floor. Room 313.
+    Office hours. Weds 6:30PM - 8:30PM, Thursdays 3:00PM - 5:00PM and on-demand if we can coordinate schedules(request 20 min slots).
 
 
 #### Course Management Site: https://idm-ip-b-fall2019.slack.com
