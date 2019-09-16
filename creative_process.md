@@ -17,7 +17,7 @@ Possible Choices \(but not limited to\):
 * [Ilana Harris-Babou](https://ilanahb.com/)
 * Agnes Martin
 * Dev Hynes
-* Bill Gates
+* Kieth Harring
 * [Nick Cave](https://art21.org/artist/nick-cave/)
 * Yayoi Kusama
 * Hilda Von Klint
@@ -58,7 +58,6 @@ Possible Choices \(but not limited to\):
 * Stanley Kubrick
 * Philippe Petit
 * Benjamin Franklin
-* Pablo Picasso
 * J.K. Rawlings 
 * Wassily Kandinsky
 * Robert Rodriguez
