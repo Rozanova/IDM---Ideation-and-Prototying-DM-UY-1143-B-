@@ -429,6 +429,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         </ul>
 </ul></td>
         </tr>
+        <tr>
             <td valign="top">wk 15</td>  
     <td valign="top">Dec 11</td>
      <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
@@ -438,5 +439,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
    <ul>
   <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
         </ul>
-</ul></td>     
+</ul></td>  
+        </tr>
 </table>
