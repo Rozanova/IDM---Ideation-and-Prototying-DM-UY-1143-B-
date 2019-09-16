@@ -78,15 +78,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 3<p>Sept 18</p></td>
-    <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
 
+ <td valign="top">wk 3</td>
+     <td valign="top">Sept 16</td>      
+     <td valign="top"><strong> Phase 1: Discovery / Inspiration / Process: </strong>
 <li>Review Homework</li>
-<li> Present Classmate discovery </li>
 <li>Discuss Collaborative Tools (Slack, Google Docs, Kanbanery vs. Trello, etc.)</li>
 <li> Discuss: <a href = "creative_process.md">Creative Process Annotated Bibliography, Paper and Video </a>  and pair students</li>
 <li> Students: Swap contact details and schedule times to meet; Discuss and devise actionable tasks</li>
-<li><a href="creative_process.md">Creative Process Annotated Bibliography &amp; Video Documentary</a> Team Working Session</li>
 </td>  
     <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <ul>
@@ -100,8 +99,10 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </td>
 </tr>
 <tr>
-    <td valign="top">wk 4<p>Sept 25</p></td>
-    <td valign="top"><strong> Phase 2: Research / Ideation / Brainstorming: </strong>
+    <td valign="top">wk 3<p>Sept 18</p></td>
+    <td valign="top">
+    <li> Present Classmate discovery </li>
+    <strong> Phase 2: Research / Ideation / Brainstorming: </strong>
     <li>Discuss Text vs. Image Storyboard</li>
     <li>Discuss Process</li>      
     <li>Review Homework</li>
