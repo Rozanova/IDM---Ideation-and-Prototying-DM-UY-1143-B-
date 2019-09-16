@@ -286,8 +286,153 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
         </ul>
 </ul></td>
         </tr>
+        <tr>
             <td valign="top">wk 9</td>  
     <td valign="top">Oct 30</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 10</td>  
+    <td valign="top">Nov 4</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 10</td>  
+    <td valign="top">Nov 6</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 11</td>  
+    <td valign="top">Nov 11</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 11</td>  
+    <td valign="top">Nov 13</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 12</td>  
+    <td valign="top">Nov 18</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 12</td>  
+    <td valign="top">Nov 20</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 13</td>  
+    <td valign="top">Nov 25</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+         <tr>
+            <td valign="top">wk 13</td>  
+    <td valign="top">Nov 27</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+                 <tr>
+            <td valign="top">wk 14</td>  
+    <td valign="top">Dec 2</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+                        <tr>
+            <td valign="top">wk 14</td>  
+    <td valign="top">Dec 4</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+        <tr>
+            <td valign="top">wk 15</td>  
+    <td valign="top">Dec 9</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
+            <tr>
+            <td valign="top">wk 15</td>  
+    <td valign="top">Dec 11</td>
      <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
     <br>
     <td valign="top">
