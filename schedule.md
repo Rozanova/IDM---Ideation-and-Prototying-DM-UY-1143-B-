@@ -7,7 +7,6 @@
 *Git & Slack are living, dynamic sources. If there are any changes to the schedule in the syllabus, I will note these changes on git and slack  (announcement channel) AND in person during class.*
 
 OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/training-calendar/" target="_blank">Tandon's MakerSpace.</a></strong> 
-
 <table width="100%">
 <tr>
     <th width="4%">wk</th>
