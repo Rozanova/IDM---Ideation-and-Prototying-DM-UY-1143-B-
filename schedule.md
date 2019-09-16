@@ -132,11 +132,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li><a href = "creative_process.md">CPPABVD: </a> </li> <ul> <li>Collaboratively Create hybrid animatic/video draft or create video draft </li> <li>Collaboratively Iterate/Revise outline for the paper </li> </ul></ul>   
     </td>
 </tr>
-<tr> 
-<td valign="top"><p>Oct 9 </p></td> 
- <td valign="top" colspan="2"> <strong> Go back in time at NYU. It's Monday on campus, not Tuesday </strong> 
-</td>
-</tr>
 <tr>
     <td valign="top">wk 4</td>       
     <td valign="top">Sept 25</td>    
@@ -165,7 +160,6 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
 <td></td>
-
 </tr>
 <tr>
     <td valign="top">wk 5</td>          
@@ -231,9 +225,14 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </ul> </ul>
     </td>
 </tr>
+<tr> 
+<td valign="top"><p>Oct 14 </p></td> 
+ <td valign="top" colspan="2"> <strong>Fall Recess. No classes scheduled </strong> 
+</td>
+</tr>
 <tr>
     <td valign="top">wk 7</td>    
-    <td valign="top">Oct 14</td>
+    <td valign="top">Oct 16</td>
     <td valign="top">Review Homework</td>   
     <td valign="top">
     <ul>
@@ -250,8 +249,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     </td>
 </tr>
 <tr>
-    <td valign="top">wk 7</td> 
-    <td valign="top">Oct 16</td>   
+    <td valign="top">wk 8</td> 
+    <td valign="top">Oct 21</td>   
     <td valign="top">Review Homework <br> <strong>Review Constant Input Projects </strong></td> 
     <td valign="top">
     <ul>
@@ -265,7 +264,7 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
 </tr>
 <tr>
     <td valign="top">wk 8</td> 
-    <td valign="top">Oct 21</td>
+    <td valign="top">Oct 23</td>
     <td valign="top">Review Homework <br><strong>Review Constant Input Projects </strong>  </td>   
     <td valign="top">
     <ul>
@@ -276,8 +275,8 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
     <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
 </tr>
 <tr>
-    <td valign="top">wk 8</td>  
-    <td valign="top">Oct 23</td>
+    <td valign="top">wk 9</td>  
+    <td valign="top">Oct 28</td>
      <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
     <br>
     <td valign="top">
@@ -286,8 +285,18 @@ OPTIONAL: <strong>Get Training at <a href="https://wp.nyu.edu/makerspace/trainin
   <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
         </ul>
 </ul></td>
-
-
+        </tr>
+            <td valign="top">wk 9</td>  
+    <td valign="top">Oct 30</td>
+     <td valign="top"><strong>Final Class Critique <br> Phase 5: Pitching & Presenting: <a href="future.md">Future Dystopia / Utopia Project DUE</a></strong> </td>      
+    <br>
+    <td valign="top">
+    <ul>
+   <ul>
+  <li><a href="end-of-semester-deliverables.md">End of Semester Deliverables</a></li>
+        </ul>
+</ul></td>
+        </tr>
 </table>
 
 
