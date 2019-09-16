@@ -14,6 +14,7 @@ Possible Choices \(but not limited to\):
 * [Wendy Red Star](https://aperture.org/blog/wendy-red-star/)
 * Jenny Holzer
 * Charles Darwin
+* [Ilana Harris-Babou](https://ilanahb.com/)
 * Agnes Martin
 * Dev Hynes
 * Bill Gates
