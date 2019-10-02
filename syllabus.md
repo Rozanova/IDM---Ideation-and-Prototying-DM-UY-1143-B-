@@ -147,6 +147,7 @@ There will be discrete team and individual exercises and projects that require y
 
 * Attendance is mandatory and will be taken at the beginning of every class. Since there is so much technical, conceptual, and design information to absorb, regular attendance is essential.
 * Unexcused absences will affect your grade. Two absenses are allowed; after that, your final, overall, numerical grade will drop by 5 percent (1/2 a grade point (e.g. A to an A-)) for each additional absence. 
+* If you must miss class let me know in advance AND let Anita Farrington anita.farrington@nyu.edu, the assistant dean, know. She will be the one who will decide if absence notes are excused or not. If she decides the absence is excused she will notify me and I will mark you as excused in my records. 
 * Be on Time. Tardiness will affect your grade. For every 3 tardies (15 minutes or more), you accure an absence. See above.
 * Contact the professor IN ADVANCE if you will not be in class (in person or via direct message on slack is preferred).
 * Attendance is mandatory for the midterm and final presentations / critiques. No exceptions. Critiques can not be made up.
