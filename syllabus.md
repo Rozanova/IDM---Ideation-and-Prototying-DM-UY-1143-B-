@@ -165,7 +165,7 @@ There will be discrete team and individual exercises and projects that require y
 
 *   2% [Input Map](input_map.md)
 *   4% [Object Evolution Timeline](narrative_timeline.md)
-*   6% [Self Assessments](self_assessments.md) (2.5% each)
+*   6% [Self Assessments](self_assessments.md) (3% each)
 *   12% [Constant Input Choices](constant_input_output.md)
 *   16% [Process Website](process_website.md)
 *   20% [Future Dystopia / Utopia Project](future.md)
