@@ -170,7 +170,7 @@ There will be discrete team and individual exercises and projects that require y
 *   16% [Process Website](process_website.md)
 *   20% [Future Dystopia / Utopia Project](future.md)
 *   20% [Creative Process Annotated Bibliography & Video Documentary](creative_process.md)
-*   20% Human-Centered Design Project
+*   20% [Human-Centered Design Project](Human-Centered Design.md)
 
 ##### Qualitative Grading Overview
 
