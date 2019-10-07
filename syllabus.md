@@ -232,7 +232,6 @@ _The following list of required readings may be incomplete and is subject to cha
 
 * Brown, Sunni. [The Miseducation of the Doodle.](http://www.alistapart.com/articles/the-miseducation-of-the-doodle/) A List Apart. January 25, 2011.
 * Rohde, Mike. [Sketching: the Visual Thinking Power Tool](http://www.alistapart.com/articles/sketching-the-visual-thinking-power-tool/) A List Apart. January 25, 2011. 
-* Trollbäck, Jakob. [One Designer Shares: How to Use Design to Tell a Story.](http://www.howdesign.com/article/storytelling/) HOW Design. 23 Jan. 2008. 
 * [Ezio Manzini Design When Everybody Designs](https://www.shareable.net/interviewed-ezio-manzini-on-design-when-everybody-designs/)
 * Victor Margolin [Design and Democracy in a Troubled World](http://www.democracy-design.org/wp-content/uploads/2017/05/Design-and-Democracy-in-a-Troubled-World-.pdf)
 * [IDEO’s Human-centered Design Toolkit](http://www.designkit.org/resources/1) (available free online)
@@ -243,6 +242,7 @@ _The following list of required readings may be incomplete and is subject to cha
 _The following list of required media may be incomplete and is subject to change. Please see the course website for updates._
 
 * [Everything Is A Remix](http://everythingisaremix.info/watch-the-series)
+* Trollbäck, Jakob on inspiration and visual language [Moments](https://www.aiga.org/video-pivot-2011-trollback).
 * [Ira Glass on storytelling](https://www.youtube.com/watch?v=5pFI9UuC_fc&list=PLE108783228F1E008)
 * [Metal Gear Solid Documentary: Watch The Making of a Hollywood Game](https://youtu.be/eJVYND_YRx8) 
 * [Metal Gear Solid Documentary: Hideo Kojima's Gene](https://youtu.be/2nM7TLbs6fE)
