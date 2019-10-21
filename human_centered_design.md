@@ -7,7 +7,7 @@ Students will come up with a challenge to tackle, ideate and prototype a solutio
 There will be no time for implemting but prototypes will be created and critiqued as a class. 
 
 
-#Rubric for final presentation:
+# Rubric for final presentation:
 
 Each group will have 10 minutes of presentation and 10 minutes of discussion about the project. 
 
